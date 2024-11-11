@@ -12,8 +12,8 @@ See whether you can beat your best score, or maybe just tackle some difficult ca
 
 For each level completed, you receive a secret code for the next level. On the menu screen, press the keys in order, and keeping them pressed.
 
-![](./lunar1.jpg)
-![](./lunar2.jpg)
+![](./lunar1.JPG)
+![](./lunar2.JPG)
 
 If you download and enjoy this game, you could buy me a coffee:
 https://www.buymeacoffee.com/richardturnnidge
