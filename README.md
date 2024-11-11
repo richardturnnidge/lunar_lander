@@ -12,6 +12,10 @@ See whether you can beat your best score, or maybe just tackle some difficult ca
 
 For each level completed, you receive a secret code for the next level. On the menu screen, press the keys in order, and keeping them pressed.
 
+Press 'P' to start, or your joystick button A.
+
+If a Wii Nunchuck is attached, it should be detected automatically. Tilt Left or Right to fire side jets, Z button for main thrusters.
+
 ![](./lunar1.JPG)
 ![](./lunar2.JPG)
 
