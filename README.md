@@ -16,6 +16,8 @@ Press 'P' to start, or your joystick button A.
 
 If a Wii Nunchuck is attached, it should be detected automatically. Tilt Left or Right to fire side jets, Z button for main thrusters.
 
+There is a seperate version of the binary file built for the Agon Emulator.
+
 ![](./lunar1.JPG)
 ![](./lunar2.JPG)
 
