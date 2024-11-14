@@ -21,6 +21,13 @@ There is a seperate version of the binary file built for the Agon Emulator.
 ![](./lunar1.JPG)
 ![](./lunar2.JPG)
 
+
+Download the binary and copy to the root level of your SD card (or a folder of your choice). 
+
+Load the binary, then run it.
+
+For recent versiosn of MOS, simply type the name of the binary (without the .bin) and hit enter.
+
 If you download and enjoy this game, you could buy me a coffee:
 https://www.buymeacoffee.com/richardturnnidge
 
